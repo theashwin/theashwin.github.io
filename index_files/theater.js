@@ -26,7 +26,7 @@ function(e,t){e.exports=["area","base","br","col","embed","hr","img","input","ke
 //# sourceMappingURL=theater.min.js.map
 /*
      FILE ARCHIVED ON 18:21:24 Apr 04, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 11:05:31 Sep 15, 2018.
+     INTERNET ARCHIVE ON 10:51:49 Sep 15, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -34,14 +34,14 @@ function(e,t){e.exports=["area","base","br","col","embed","hr","img","input","ke
 */
 /*
 playback timings (ms):
-  LoadShardBlock: 65.442 (3)
+  LoadShardBlock: 109.135 (3)
   esindex: 0.01
-  captures_list: 83.635
-  CDXLines.iter: 11.297 (3)
-  PetaboxLoader3.datanode: 84.402 (4)
-  exclusion.robots: 0.416
-  exclusion.robots.policy: 0.385
-  RedisCDXSource: 1.688
-  PetaboxLoader3.resolve: 67.766
-  load_resource: 136.036
+  captures_list: 125.946
+  CDXLines.iter: 11.453 (3)
+  PetaboxLoader3.datanode: 117.523 (4)
+  exclusion.robots: 0.192
+  exclusion.robots.policy: 0.18
+  RedisCDXSource: 1.675
+  PetaboxLoader3.resolve: 202.388 (4)
+  load_resource: 236.603
 */
