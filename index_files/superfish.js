@@ -263,7 +263,7 @@
 
 /*
      FILE ARCHIVED ON 00:47:04 Jun 28, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 10:51:50 Sep 15, 2018.
+     INTERNET ARCHIVE ON 10:29:14 Oct 13, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -271,14 +271,14 @@
 */
 /*
 playback timings (ms):
-  LoadShardBlock: 285.26 (3)
-  esindex: 0.015
-  captures_list: 302.484
-  CDXLines.iter: 12.084 (3)
-  PetaboxLoader3.datanode: 89.275 (4)
-  exclusion.robots: 0.19
-  exclusion.robots.policy: 0.179
-  RedisCDXSource: 1.611
-  PetaboxLoader3.resolve: 51.6
-  load_resource: 119.932
+  LoadShardBlock: 907.507 (3)
+  esindex: 0.017
+  captures_list: 926.886
+  CDXLines.iter: 12.721 (3)
+  PetaboxLoader3.datanode: 897.93 (4)
+  exclusion.robots: 0.313
+  exclusion.robots.policy: 0.294
+  RedisCDXSource: 1.842
+  PetaboxLoader3.resolve: 61.306
+  load_resource: 88.635
 */

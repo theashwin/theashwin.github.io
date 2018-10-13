@@ -26,6 +26,9 @@
   text-align:left;
   border:none;
   color: #000;
+  text-indent: 0;
+  position: initial;
+  background: none;
 }
 #wm-ipp div {
   display: block;
@@ -65,6 +68,9 @@
   background: #fff !important;
   color: #000 !important;
 }
+#wm-ipp a {
+  display: inline;
+}    
 #wm-ipp a:hover{
   text-decoration:underline;
 }
