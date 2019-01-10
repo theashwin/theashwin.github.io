@@ -1,3 +1,14 @@
+ashwin:
+  username: ashwin
+  name: Ashwin Patil
+  location: Pune, India
+  url_full: https://ashwinpatil.co
+  url: ashwinpatil.co
+  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+  picture: assets/images/hannah.jpg
+  facebook: False
+  twitter: theashwinpatil
+cover: assets/images/hannah-cover.jpg
 ghost:
   username: ghost
   name: Ghost
