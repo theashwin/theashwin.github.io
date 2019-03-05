@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://ashwinpatil.co/
+baseurl: https://ashwin.dev
 
 # Website info
 title: Ashwin Patil
@@ -72,7 +72,7 @@ repo: theashwin.github.io
 branch: master
 relative_source: ../
 destination: ../
-production_url:  https://ashwinpatil.co/
+production_url:  https://ashwin.dev
 source_url:  https://github.com/theashwin/theashwin.github.io/
 
 exclude:
