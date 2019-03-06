@@ -8,8 +8,8 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Ashwin Patil
+description: Ad Infinitum Et Ultra
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -68,8 +68,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: theashwin
+repo: theashwin.github.io
 branch: master
 relative_source: ../
 destination: ../
