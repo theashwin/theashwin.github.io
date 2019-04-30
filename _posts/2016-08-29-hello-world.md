@@ -5,7 +5,7 @@ cover:  assets/images/welcome.jpg
 navigation: True
 title: Welcome to my little corner of the Internet!
 date: 2016-08-29 00:00:00
-tags: [Getting started]
+tags: [Hello World]
 class: post-template
 subclass: 'post tag-getting-started'
 author: icarus
